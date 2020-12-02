@@ -1,0 +1,208 @@
+[
+  {
+    "type": "Burger",
+
+    "id": "0",
+    "bk": "London broil",
+    "br": "visa",
+    "ty": "credit",
+    "nm": "1234 5678 1234 5678",
+    "co": 4294924066,
+    "txt": "circles",
+    "bl": "Rs 150",
+    "img": "assets/images/steak.png",
+    "desc": "A steak is a meat generally sliced across the muscle fibers, potentially including a bone.It is normally grilled, though can also be pan-fried. It is often grilled in an attempt to replicate the flavor of steak cooked over the glowing coals of an open fire.",
+    "tx": [
+      {
+        "m": "O'Neil Pub",
+        "t": "11:13 PM",
+        "a": "-$98",
+        "i": "glassCocktail"
+      },
+      {
+        "m": "Hard Rock Cafe",
+        "t": "8:24 PM",
+        "a": "-$134",
+        "i":"silverware"
+      },
+      {
+        "m": "Uber",
+        "t": "5:00 PM",
+        "a": "-$24",
+        "i": "car"
+      },
+      {
+        "m": "American Airline",
+        "t": "4:13 PM",
+        "a": "-$735",
+        "i": "airplaneTakeoff"
+      },
+      {
+        "m": "Hairdresser",
+        "t": "2:13 PM",
+        "a": "-$46",
+        "i": "contentCut"
+      },
+      {
+        "m": "Gas Station",
+        "t": "2:10 PM",
+        "a": "-$56",
+        "i": "gasStation"
+      },
+      {
+        "m": "Burger King",
+        "t": "1:00 PM",
+        "a": "-$32",
+        "i": "silverware"
+      },
+      {
+        "m": "Physician",
+        "t": "11:13 PM",
+        "a": "-$73",
+        "i": "stethoscope"
+      },
+      {
+        "m": "Walmart",
+        "t": "10:00 AM",
+        "a": "-$322",
+        "i": "shopping"
+      },
+      {
+        "m": "Pharmacy",
+        "t": "9:13 AM",
+        "a": "-$36",
+        "i": "pharmacy"
+      }
+    ]
+  },
+  {
+    "type": "Burger",
+
+    "id": "1",
+    "bk": "French Fries",
+    "br": "mastercard",
+    "ty": "credit",
+    "nm": "1234 5678 1234 5678",
+    "co": 4294951175,
+    "txt": "layers",
+    "bl": "Rs 150",
+    "img": "assets/images/fries.png",
+    "desc": "French fries, or simply fries, chips, finger chips, or French-fried potatoes, are batonnet or allumette-cut deep-fried potatoes.",
+    "tx": [
+      {
+        "m": "Roland Garros Store",
+        "t": "8:24 PM",
+        "a": "-$114",
+        "i": "tennis"
+      },
+      {
+        "m": "Taxi",
+        "t": "8:00 PM",
+        "a": "-$12",
+        "i": "car"
+      },
+      {
+        "m": "Dentist",
+        "t": "2:15 PM",
+        "a": "-$32",
+        "i": "toothOutline"
+      }
+    ]
+  },
+
+  {
+    "type": "Burger",
+
+    "id": "2",
+    "bk": "Peoprani Pizza",
+    "br": "visa",
+    "ty": "credit",
+    "nm": "1234 5678 1234 5678",
+    "co": 4287669422,
+    "txt": "dots",
+    "bl": "Rs 300",
+    "img": "assets/images/pizza.png",
+    "desc": "Pepperoni pizza is a classic favorite, and in less than 20 minutes, you can make this light and healthy version. The whole wheat crust has more fiber and nutrients than a white flour crust, and using part-skim mozzarella saves on calories without compromising any flavor.",
+
+    "tx": [
+      {
+        "m": "Payment",
+        "t": "5:00 PM",
+        "a": "-$24",
+        "i": "coins"
+      },
+      {
+        "m": "Starbucks",
+        "t": "2:13 PM",
+        "a": "-$42",
+        "i": "contentCut"
+      }
+    ]
+  },
+  {
+    "type": "Burger",
+
+    "id": "3",
+    "bk": "Steamed Momos",
+    "br": "visa",
+    "ty": "debit",
+    "nm": "1234 5678 1234 5678",
+    "co": 4278238420,
+    "txt": "circles",
+    "bl": "€ 32 987",
+    "img": "assets/images/momos.png",
+    "desc": "Momos is a type of East and South Asian steamed filled dumpling, popular across the Indian subcontinent and the Himalayan regions of South Asia",
+
+    "tx": [
+      {
+        "m": "Hilton Hotel",
+        "t": "10:13 PM",
+        "a": "-$173",
+        "i": "hotel"
+      },
+      {
+        "m": "Ikea",
+        "t": "1:30 PM",
+        "a": "-$328",
+        "i": "home"
+      }
+    ]
+  },
+
+  {
+    "type": "Burger",
+
+    "id": "4",
+    "bk": "Beaf Burger",
+    "br": "mastercard",
+    "ty": "debit",
+    "nm": "1234 5678 1234 5678",
+    "co": 4294938368,
+    "txt": "layers",
+    "bl": "Rs 250",
+    "img": "assets/images/burger2.png",
+    "desc": "A hamburger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.",
+
+
+    "tx": [
+      {
+        "m": "Theater",
+        "t": "10:00 PM",
+        "a": "-$24",
+        "i":"theater"
+      },
+      {
+        "m": "Uber",
+        "t": "5:00 PM",
+        "a": "-$24",
+        "i": "car"
+      },
+      {
+        "m": "Target",
+        "t": "3:21 AM",
+        "a": "-$219",
+        "i": "shopping"
+      }
+    ]
+  }
+]
