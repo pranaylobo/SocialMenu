@@ -11,3 +11,5 @@ a. when a recipe is added, the person has to select which cuisine it belongs to.
 3. Mark cuisines as favorites 
 4. Comment on the recipes they have tried so that the general public (general public means people who do not have an account) can see those comments 
 5. Add notes on recipes that only they can see (not shared with the general public).
+![alt text](https://firebasestorage.googleapis.com/v0/b/teamkalm-29130.appspot.com/o/Codellion%20Presents%20(1).png?alt=media&token=79262b9f-f765-4432-8180-ce85ae787b3b)
+
